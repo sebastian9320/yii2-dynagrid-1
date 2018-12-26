@@ -25,7 +25,7 @@ return [
     'sort' => 'orden',
     'Abort any changes and reset settings' => 'Aborta todos los cambios y reinicia la configuración',
     'Apply' => 'Aplicar',
-    'Are you sure you want to delete the setting?' => 'Estás seguro de querer eliminar la configuración',
+    'Are you sure you want to delete the setting?' => 'Está seguro de querer eliminar la configuración',
     'Configure Order and Display of Grid Columns' => 'Configura el orden y visibilidad de las columnas',
     'Default Filter' => 'Filtro predeterminado',
     'Default Sort' => 'Orden predeterminado',
